@@ -9,7 +9,7 @@ If you want to install the MATLAB Integration for Jupyter without using Docker, 
 
 ## Requirements
 * Linux® Operating System
-* Docker
+* Docker version newer than 20.10.9
 * MATLAB version newer than R2020b
 
 ## Build Instructions
